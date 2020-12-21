@@ -7,7 +7,7 @@ The dataset used in the paper can be downloaded [here](https://www.kaggle.com/c/
 Once you have downloaded it, you can split it into the required data partitions by using the *preprocessor.py* script that can be found in the *data* directory.
 Run it by executing the following command in a terminal:
 
-`python preprocessor.py -i path_of_raw_datawet -t 20 -v 10 -d 512`
+`python preprocessor.py -i path_of_raw_dataset -t 20 -v 10 -d 512`
 
 This will split your dataset into *train*, *validation* and *test* partitions (70% train, 20% test, 10% validation). The data will be written to the respective subdirectories in the *data* directory.
 
