@@ -3,7 +3,7 @@ Generating Counterfactual Explanation Images through Generative Adversarial Lear
 
 ![Example Counterfactual Images](https://github.com/hcmlab/GANterfactual/blob/main/ressources/counterfactual_examples.PNG)
 
-This repository aims to provide the code used in the paper "This is not the Texture you are looking for! Introducing Novel Counterfactual Explanations for Non-Experts using Generative Adversarial Learning". A preprint of the paper can be found here: https://arxiv.org/abs/2012.11905
+This repository aims to provide the code used in the paper "This is not the Texture you are looking for! Introducing Novel Counterfactual Explanations for Non-Experts using Generative Adversarial Learning". A preprint of the paper can be found [here](https://arxiv.org/abs/2012.11905).
 
 The dataset used in the paper can be downloaded [here](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge).
 Once you have downloaded it, you can split it into the required data partitions by using the *preprocessor.py* script that can be found in the *data* directory.
